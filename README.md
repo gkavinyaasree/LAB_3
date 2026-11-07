@@ -21,9 +21,6 @@ pip install -r requirements.txt
 streamlit run StudentID_Lab3.py
 ```
 
-## Screenshots
-<ADD SCREENSHOTS HERE>
-
 ## Files
 | File | Purpose |
 |---|---|
